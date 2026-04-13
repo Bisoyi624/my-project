@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: idream-microservice
+
+server:
+  servlet:
+    context-path: /idream
+
