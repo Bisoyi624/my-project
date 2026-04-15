@@ -26,13 +26,13 @@
 <distributionManagement>
   <repository>
     <id>nexus</id>
-    <name>test-repo</name>
-    <url>http://13.127.118.45:8081/repository/test-repo/</url>
+    <name>my-repo</name>
+    <url>http://15.207.237.230:8081/repository/my-repo/</url>
   </repository>
   <snapshotRepository>
     <id>nexus</id>
-    <name>test-repo</name>
-    <url>http://13.127.118.45:8081/repository/test-repo/</url>
+    <name>my-repo</name>
+    <url>http://15.207.237.230:8081/repository/my-repo/</url>
   </snapshotRepository>
 </distributionManagement>
 
