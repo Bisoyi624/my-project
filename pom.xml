@@ -26,13 +26,13 @@
 <distributionManagement>
   <repository>
     <id>nexus</id>
-    <name>my-repo</name>
-    <url>http://3.109.132.175:8081/repository/my-project/</url>
+    <name>my-host-mvn</name>
+    <url>http://13.233.253.211:8081/repository/my-host-mvn/</url>
   </repository>
   <snapshotRepository>
     <id>nexus</id>
-    <name>my-repo</name>
-    <url>http://3.109.132.175:8081/repository/my-project/</url>
+    <name>my-host-mvn</name>
+    <url>http://13.233.253.211:8081/repository/my-host-mvn/</url>
   </snapshotRepository>
 </distributionManagement>
 
